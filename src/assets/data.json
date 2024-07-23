@@ -1,0 +1,65 @@
+[
+    {
+      "id": 1,
+      "imagen": "https://upload.wikimedia.org/wikipedia/en/0/03/Super_Mario_Bros._box.png",
+      "descripcion": "Super Mario Bros. es un juego de plataformas de 1985 desarrollado y publicado por Nintendo para la consola Nintendo Entertainment System (NES). Es el primer juego de la serie Super Mario y el primer juego en presentar al personaje de Mario.",
+      "titulo": "Super Mario Bros.",
+      "precio": 20
+    },
+    {
+      "id": 2,
+      "imagen": "https://cloudfront-eu-central-1.images.arcpublishing.com/diarioas/IHBURA2W25MNROLE244XFEUQD4.jpg",
+      "descripcion": "The Legend of Zelda es un juego de acción y aventura de 1986 desarrollado y publicado por Nintendo para la consola Nintendo Entertainment System (NES). Es el primer juego de la serie The Legend of Zelda y presenta al personaje de Link.",
+      "titulo": "The Legend of Zelda",
+      "precio": 25
+    },
+    {
+      "id": 3,
+      "imagen": "https://i.3djuegos.com/juegos/8595/metroid/fotos/ficha/metroid-1950675.webp",
+      "descripcion": "Metroid es un juego de acción y aventura de 1986 desarrollado y publicado por Nintendo para la consola Nintendo Entertainment System (NES). Es el primer juego de la serie Metroid y presenta al personaje de Samus Aran.",
+      "titulo": "Metroid",
+      "precio": 18
+    },
+    {
+      "id": 4,
+      "imagen": "https://upload.wikimedia.org/wikipedia/en/5/51/Castlevania_1_cover.png",
+      "descripcion": "Castlevania es un juego de plataformas de 1986 desarrollado y publicado por Konami para la consola Nintendo Entertainment System (NES). Es el primer juego de la serie Castlevania y presenta al personaje de Simon Belmont.",
+      "titulo": "Castlevania",
+      "precio": 15
+    },
+    {
+      "id": 5,
+      "imagen": "https://upload.wikimedia.org/wikipedia/en/6/65/Contra_cover.jpg",
+      "descripcion": "Contra es un juego de acción de desplazamiento lateral de 1987 desarrollado y publicado por Konami para la consola Nintendo Entertainment System (NES). Es el primer juego de la serie Contra y presenta a los personajes de Bill Rizer y Lance Bean.",
+      "titulo": "Contra",
+      "precio": 12
+    },
+    {
+      "id": 6,
+      "imagen": "https://upload.wikimedia.org/wikipedia/en/thumb/d/dd/Mega_Man_1_box_artwork.jpg/220px-Mega_Man_1_box_artwork.jpg",
+      "descripcion": "Mega Man es un juego de plataformas de 1987 desarrollado y publicado por Capcom para la consola Nintendo Entertainment System (NES). Es el primer juego de la serie Mega Man y presenta al personaje de Mega Man.",
+      "titulo": "Mega Man",
+      "precio": 18
+    },
+    {
+      "id": 7,
+      "imagen": "https://upload.wikimedia.org/wikipedia/en/d/d8/FF1_USA_boxart.jpg",
+      "descripcion": "Final Fantasy es un juego de rol de 1987 desarrollado y publicado por Square para la consola Nintendo Entertainment System (NES). Es el primer juego de la serie Final Fantasy y presenta al personaje de Warrior.",
+      "titulo": "Final Fantasy",
+      "precio": 22
+    },
+    {
+      "id": 8,
+      "imagen": "https://external-preview.redd.it/sZGha7uQkIB1rO_JPpGZYw2I0R8R1yp_3EPls_9CqHI.jpg?auto=webp&s=834245ffb3ac6f657bcf19b75681cb84e0028b96",
+      "descripcion": "EarthBound es un juego de rol de 1994 desarrollado y publicado por Nintendo para la consola Super Nintendo Entertainment System (SNES). Es el segundo juego de la serie Mother y presenta al personaje de Ness.",
+      "titulo": "EarthBound",
+      "precio": 28
+    },
+    {
+      "id": 9,
+      "imagen": "https://assetsio.gnwcdn.com/co6pym.jpg?width=1200&height=1200&fit=bounds&quality=70&format=jpg&auto=webp",
+      "descripcion": "Donkey Kong Country es un juego de plataformas de 1994 desarrollado y publicado por Rare para la consola Super Nintendo Entertainment System (SNES). Es el primer juego de la serie Donkey Kong Country y presenta al personaje de Donkey Kong.",
+      "titulo": "Donkey Kong Country",
+      "precio": 25
+    }
+  ]
