@@ -1,4 +1,4 @@
-# Pixel Palace, react training
+# Pixel Palace
 
 ## Prerequisites 
 
@@ -34,3 +34,7 @@ In the project, you can run the following commands:
   * npm run dev: Starts the development server.
   * npm run build: Creates an optimized and production-ready build of the project.
   * npm run serve: Serves the optimized build of the project locally.
+
+## More
+
+This project was for testing knowledge in react Courses
